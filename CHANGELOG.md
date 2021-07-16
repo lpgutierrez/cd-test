@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.66.2 (upcoming)
+
+* Change to test final releases refactored
+
 ## 0.66.1 (July 09, 2021)
 
 * Hotfix
