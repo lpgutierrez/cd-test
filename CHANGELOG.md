@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.66.2 (upcoming)
+## 0.66.2 (July 16, 2021)
 
 * Change to test final releases refactored
 
