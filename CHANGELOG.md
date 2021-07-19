@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.66.4 (upcoming)
+
+* Another release test
+
 ## 0.66.3 (July 16, 2021)
 
 * More final releases refactored
