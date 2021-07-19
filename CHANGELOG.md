@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.66.4 (upcoming)
+## 0.66.4 (July 19, 2021)
 
 * Another release test
 
