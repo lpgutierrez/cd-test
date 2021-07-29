@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.76.0 (upcoming)
+
+* Some changes for a branch milestone
+
 ## 0.69.0 (upcoming)
 
 * Pending changelog
