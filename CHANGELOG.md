@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.77.0 (upcoming)
+## 0.77.0 (July 29, 2021)
 
 * Some other changes
 
