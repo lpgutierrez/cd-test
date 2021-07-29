@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.76.0 (upcoming)
+## 0.76.0 (July 29, 2021)
 
 * Some changes for a branch milestone
 
