@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.77.1 (upcoming)
+
+* Hotfix incoming
+
 ## 0.77.0 (July 29, 2021)
 
 * Some other changes
