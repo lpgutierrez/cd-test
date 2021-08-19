@@ -6,6 +6,7 @@ hose {
     ANCHORE_TEST = true
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
+    AGENT = 'jnlp-agent-openjdk11'
 //    ANCHORE_NIGHTLY_JOB = true
 
     ITSERVICES = [
