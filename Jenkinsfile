@@ -7,6 +7,7 @@ hose {
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
     AGENT = 'jnlp-agent-openjdk11'
+    BUILDTOOLVERSION = '3.6.2'
 //    ANCHORE_NIGHTLY_JOB = true
 
     ITSERVICES = [
