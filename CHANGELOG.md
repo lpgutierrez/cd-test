@@ -2,7 +2,7 @@
 
 ## 0.78.0 (upcoming)
 
-* Pending changelog
+* Some changes
 
 ## 0.77.0-b394cf3 (Built: July 29, 2021 | Pre-release)
 
