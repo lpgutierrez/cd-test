@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.77.3 (upcoming)
+
+* Maybe the rolling releases didn't break anything?
+
 ## 0.77.2 (September 01, 2021)
 
 * Some changes that are really cool
