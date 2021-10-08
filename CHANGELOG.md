@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.77.4 (upcoming)
+## 0.77.4 (October 08, 2021)
 
 * Milestone testing
 
