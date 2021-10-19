@@ -3,7 +3,7 @@
 hose {
     EMAIL = 'cd'
     DEPLOYONPRS = false
-    GENERATE_QA_ISSUE = false
+    GENERATE_QA_ISSUE = true
 //    ANCHORE_NIGHTLY_JOB = true
 
     ITSERVICES = [
